@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.9f0cf5cc.chunk.js",
+    "main.js.map": "/static/js/main.9f0cf5cc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0353dd3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0353dd3.js.map",
+    "static/js/2.070cba7c.chunk.js": "/static/js/2.070cba7c.chunk.js",
+    "static/js/2.070cba7c.chunk.js.map": "/static/js/2.070cba7c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.416621c96b086539ac720b092f885958.js": "/precache-manifest.416621c96b086539ac720b092f885958.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.070cba7c.chunk.js.LICENSE.txt": "/static/js/2.070cba7c.chunk.js.LICENSE.txt",
+    "static/media/F4Wallpaper.jpg": "/static/media/F4Wallpaper.c62becce.jpg",
+    "static/media/RobertEricSchultz3.jpg": "/static/media/RobertEricSchultz3.9191c0b7.jpg",
+    "static/media/TDAmeriTrash.png": "/static/media/TDAmeriTrash.6fa9356b.png",
+    "static/media/astar1.PNG": "/static/media/astar1.052c7da0.PNG",
+    "static/media/hiking.png": "/static/media/hiking.70e83488.png",
+    "static/media/xcom.png": "/static/media/xcom.fd31ab21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0353dd3.js",
+    "static/js/2.070cba7c.chunk.js",
+    "static/js/main.9f0cf5cc.chunk.js"
+  ]
+}
