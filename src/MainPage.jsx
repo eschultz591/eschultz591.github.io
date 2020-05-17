@@ -161,7 +161,7 @@ const MainPage = () => {
                     <Typography className ={classes.textbox}>
                          Hello my name is Robert Eric Schultz and
             I am a computer science student at The University of Texas at Arlington. I have a passion for computer science,
-            specifically path planning, graphics, and game development. As someone in the Computer Scince field,
+            specifically path planning, graphics, and game development. As someone in the Computer Sceince field,
             I am morally obligated to tell you that I enjoy backpacking, hiking, and things that get me closer to nature.
             Aside from that, I enjoy reading about war history and playing video games, and I almost got a minor in Arabic. 
                     </Typography>
